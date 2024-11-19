@@ -9,6 +9,6 @@ A los 16 años, logré comprar mi primera computadora y con ella comencé mi via
 Mi trayectoria hasta ahora refleja mi entusiasmo por aprender y mi determinación para superar obstáculos, siempre enfocado en crecer y mejorar en este apasionante mundo tecnológico.
 
 ## Links
-[Portfolio](https://diego18.pro)
-[X/Twitter](https://twitter.com/diegodev018)
-[LinkedIn](https://www.linkedin.com/in/diego-ronaldo-sanchez-pichardo-803a1a317/)
+### [Portfolio](https://diego18.pro)
+### [X/Twitter](https://twitter.com/diegodev018)
+### [LinkedIn](https://www.linkedin.com/in/diego-ronaldo-sanchez-pichardo-803a1a317/)
